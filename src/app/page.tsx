@@ -11,6 +11,9 @@ export default function Home() {
           rendering
         </Link>
       </main>
+      <footer>
+        <h2>pasha loves vanys, these are pidorasiki</h2>
+      </footer>
     </div>
   )
 }
